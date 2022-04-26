@@ -46,4 +46,4 @@ My [***LinkedIn***](https://www.linkedin.com/in/nestor-patricio-rojas-rios/)<br>
 My email: np.rojas@gmail.com<br><br>
 
 ### From leisure, **Néstor Patricio Rojas Ríos**<br>
-### 🤘🏽 _Enjoy it!_
+### 🤘🏽 _Until the code explodes!_
