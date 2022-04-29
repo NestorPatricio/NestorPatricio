@@ -3,7 +3,7 @@
 
 ## 🤔 About me
 I'm Néstor Patricio, a General practitioner from Chile who changed his career to become a Python developer.<br>
-I've 10 years of treating patients in different contexts and working with different kinds of peoples to find the best course of treatament for them. I know the importance of teamwork, listen to others, having a respectful convesation and being empathic.<br>
+I've 10 years of treating patients in different contexts and working with different kinds of peoples to find the best course of treatament for them. I know the importance of teamwork, listen to others, having a respectful conversation and being empathic.<br>
 I consider myself a curious person, as I love inquiring in many fields of human knowledge. This curiosity led me to software development and this is the path I'm on right now. I want to take all my laboral experience and apply it in the software development world.<br><br>
 
 ## 👨🏾‍🎓 Education
