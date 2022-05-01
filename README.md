@@ -22,7 +22,7 @@ I worked as a hospital doctor in 24 hours shifts every 6 days. I treated acute c
 ***Internist***<br>
 Hospital San Juan De Dios De Santiago<br>
 April 2014 – October 2016<br>
-I worked in a high complexity hospital, in the Internal Medicine Departement, treating hospitalized adult patients. I spent time in sub-specialist consulting rooms also.<br><br>
+I worked in a high complexity hospital, at the Internal Medicine Departement, treating hospitalized adult patients. I spent time in sub-specialist consulting rooms also.<br><br>
 ***Family Physician***<br>
 Hospital de Licantén<br>
 April 2010 – March 2014<br>
@@ -43,7 +43,7 @@ I worked in a rural hospital, treating all ages patients as hospitalized patient
 ## 📧 Contact me
 My [***GitHub***](https://github.com/NestorPatricio)<br>
 My [***LinkedIn***](https://www.linkedin.com/in/nestor-patricio-rojas-rios/)<br>
-My email: np.rojas@gmail.com<br><br>
+My email: *np.rojas@gmail.com*<br><br>
 
 ### From leisure, **Néstor Patricio Rojas Ríos**<br>
 ### 🤘🏽 _Until the code explodes!_
